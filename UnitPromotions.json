@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Assault",
+        "unitTypes": [
+            "Mounted",
+            "Armor",
+            "WaterCivilian"
+        ],
+        "uniques": [
+            "[1] additional attacks per turn"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Assault: grants one additional attack per turn. Intended for aggressive armored and cavalry formations."
+            }
+        ]
+    },
+    {
+        "name": "Blitz",
+        "prerequisites": [
+            "Assault"
+        ],
+        "unitTypes": [
+            "Mounted",
+            "Armor"
+        ],
+        "uniques": [
+            "[+1] Movement"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Blitz: increases battlefield mobility, allowing the unit to exploit breakthroughs and encircle enemies."
+            }
+        ]
+    },
+    {
+        "name": "Tank Hunter",
+        "unitTypes": [
+            "Mounted",
+            "Armor"
+        ],
+        "uniques": [
+            "[+25]% Strength <vs [Armor] units>"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Tank Hunter: +25% strength when fighting armored units."
+            }
+        ]
+    },
+    {
+        "name": "Breakthrough",
+        "prerequisites": [
+            "Blitz"
+        ],
+        "unitTypes": [
+            "Mounted",
+            "Armor"
+        ],
+        "uniques": [
+            "[+20]% Strength <when attacking>"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Breakthrough: +20% strength when attacking."
+            }
+        ]
+    },
+    {
+        "name": "Reactive Armor",
+        "unitTypes": [
+            "Armor"
+        ],
+        "uniques": [
+            "[+20]% Strength <when defending>"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Reactive Armor: +20% strength when defending."
+            }
+        ]
+    },
+    {
+        "name": "Siege Breaker",
+        "prerequisites": [
+            "Breakthrough"
+        ],
+        "unitTypes": [
+            "Mounted",
+            "Armor"
+        ],
+        "uniques": [
+            "[+25]% Strength <vs cities>"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Siege Breaker: +25% strength when attacking cities."
+            }
+        ]
+    },
+    {
+        "name": "Rapid Advance",
+        "unitTypes": [
+            "Mounted",
+            "Armor",
+            "WaterCivilian"
+        ],
+        "uniques": [
+            "[+1] Movement"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Rapid Advance: increases movement by 1."
+            }
+        ]
+    },
+    {
+        "name": "Amphibious Assault",
+        "unitTypes": [
+            "Mounted",
+            "Armor",
+            "WaterCivilian"
+        ],
+        "uniques": [
+            "Eliminates combat penalty for attacking from the sea"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Amphibious Assault: eliminates the combat penalty for attacks launched from the sea."
+            }
+        ]
+    },
+    {
+        "name": "Veteran Crew",
+        "unitTypes": [
+            "Mounted",
+            "Armor",
+            "WaterCivilian"
+        ],
+        "uniques": [
+            "[+15]% Strength"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Veteran Crew: +15% combat strength."
+            }
+        ]
+    }
+]
