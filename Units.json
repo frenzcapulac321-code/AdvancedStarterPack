@@ -1,0 +1,42 @@
+
+    {
+        "name": "Modern Armoured Vehicle",
+        "unitType": "Armor",
+        "movement": 4,
+        "strength": 80,
+        "cost": 500,
+        "requiredTech": "Mobile Tactics",
+        "promotions": [
+            "Assault",
+            "Veteran Crew"
+        ],
+        "uniques": [
+            "Not displayed as an available construction without [Mobile Tactics]"
+        ],
+        "civilopediaText": [
+            {
+                "text": "A powerful advanced armoured vehicle supplied to civilizations using the Advanced Starter difficulty."
+            }
+        ]
+    },
+    {
+        "name": "Mechanized Infantry Vehicle",
+        "unitType": "Armor",
+        "movement": 3,
+        "strength": 65,
+        "cost": 400,
+        "requiredTech": "Mobile Tactics",
+        "uniques": [
+            "Not displayed as an available construction without [Mobile Tactics]"
+        ],
+        "civilopediaText": [
+            {
+                "text": "An advanced mechanized infantry vehicle supplied as part of the Advanced Starter Pack."
+            }
+        ],
+        "promotions": [
+            "Veteran Crew",
+            "Rapid Advance"
+        ]
+    }
+]
