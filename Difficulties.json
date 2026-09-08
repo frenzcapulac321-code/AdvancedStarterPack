@@ -1,0 +1,9 @@
+Difficulties.json
+{
+        "name": "Advanced Starter",
+        "playerBonusStartingUnits": [
+            "Modern Armoured Vehicle",
+            "Mechanized Infantry Vehicle"
+        ]
+    }
+]
