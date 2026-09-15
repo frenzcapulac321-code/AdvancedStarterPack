@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Advanced Starter",
+    "playerBonusStartingUnits": [
+      "Modern Armor",
+      "Mechanized Infantry"
+    ]
+  }
+]
