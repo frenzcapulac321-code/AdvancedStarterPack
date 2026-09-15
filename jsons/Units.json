@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Modern Armor",
+    "unitType": "Armor",
+    "movement": 5,
+    "strength": 100,
+    "cost": 500,
+    "requiredTech": "Agriculture",
+    "requiredResource": "Aluminum",
+    "promotions": [
+      "Assault",
+      "Veteran Crew",
+      "Shock I",
+      "Shock II",
+      "Shock III",
+      "Accuracy I",
+      "Accuracy II",
+      "Accuracy III",
+      "Charge",
+      "Cover I",
+      "Cover II",
+      "Mobility",
+      "Blitz",
+      "March",
+      "Logistics"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Advanced Starter human version of Modern Armor. It is available from Agriculture in the Advanced Starter setup."
+      }
+    ]
+  },
+  {
+    "name": "Mechanized Infantry",
+    "unitType": "Armor",
+    "movement": 3,
+    "strength": 65,
+    "cost": 400,
+    "requiredTech": "Agriculture",
+    "promotions": [
+      "Veteran Crew",
+      "Rapid Advance"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Advanced Starter human version of Mechanized Infantry. It is available from Agriculture in the Advanced Starter setup."
+      }
+    ]
+  },
+  {
+    "name": "Modern Armor AI",
+    "unitType": "Armor",
+    "movement": 5,
+    "strength": 100,
+    "cost": 500,
+    "requiredTech": "Lasers",
+    "requiredResource": "Aluminum",
+    "promotions": [
+      "Assault",
+      "Veteran Crew"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Normal AI technology version of Modern Armor. It becomes constructible at Lasers."
+      }
+    ]
+  },
+  {
+    "name": "Mechanized Infantry AI",
+    "unitType": "Armor",
+    "movement": 3,
+    "strength": 65,
+    "cost": 400,
+    "requiredTech": "Mobile Tactics",
+    "promotions": [
+      "Veteran Crew",
+      "Rapid Advance"
+    ],
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Normal AI technology version of Mechanized Infantry. It becomes constructible at Mobile Tactics."
+      }
+    ]
+  },
+  {
+    "name": "M1A1 Abrams",
+    "unitType": "Armor",
+    "movement": 5,
+    "strength": 150,
+    "cost": 500,
+    "requiredTech": "Lasers",
+    "requiredResource": "Aluminum",
+    "promotions": [
+      "Assault"
+    ],
+    "uniques": [
+      "Not displayed as an available construction without [Lasers]",
+      "Never appears as a Barbarian unit",
+      "Can move after attacking",
+      "Penalty when attacking cities <33>%",
+      "Rough terrain penalty",
+      "Promotions which can be chosen [Shock I] [Shock II] [Shock III] [Accuracy I] [Accuracy II] [Accuracy III] [Charge] [Cover I] [Cover II] [Mobility] [Blitz] [March] [Logistics]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "An advanced main battle tank unlocked at Lasers, using the Modern Armor-style appearance and 150 combat strength."
+      }
+    ]
+  }
+]
