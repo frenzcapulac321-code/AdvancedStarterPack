@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Assault",
+    "uniques": [
+      "[1] additional attacks per turn"
+    ]
+  },
+  {
+    "name": "Blitz",
+    "uniques": [
+      "[1] Movement"
+    ]
+  },
+  {
+    "name": "Tank Hunter",
+    "uniques": [
+      "[25]% Strength vs Armor"
+    ]
+  },
+  {
+    "name": "Breakthrough",
+    "uniques": [
+      "[20]% Strength when attacking"
+    ]
+  },
+  {
+    "name": "Reactive Armor",
+    "uniques": [
+      "[20]% Strength when defending"
+    ]
+  },
+  {
+    "name": "Siege Breaker",
+    "uniques": [
+      "[25]% Strength vs cities"
+    ]
+  },
+  {
+    "name": "Rapid Advance",
+    "uniques": [
+      "[1] Movement"
+    ]
+  },
+  {
+    "name": "Amphibious Assault",
+    "uniques": [
+      "No penalty for attacking from water"
+    ]
+  },
+  {
+    "name": "Veteran Crew",
+    "uniques": [
+      "[15]% Strength"
+    ]
+  }
+]
